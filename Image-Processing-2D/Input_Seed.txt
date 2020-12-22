@@ -1,0 +1,2 @@
+Coordinate-> (209,149)	R=0 G=0 B=0
+Coordinate-> (236,203)	R=216 G=240 B=243
