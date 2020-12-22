@@ -12,13 +12,15 @@ Task was to learn several aspects or techniques of medical imaging like Fourier 
 
 ###### Future Possible Goals
     
-    - To understand the different digital geometries and medical imaging techniques.
-    - To implement them in an UI.
+  - To understand the different digital geometries and medical imaging techniques.
+  - To implement them in an UI.
+
 
 ###### References & Useful links
-    - [course](https://drive.google.com/file/d/0BxM540VPs0PdZkxvYWxRNC1rWjQ/view)
-    - [codes](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdS2F1NTVRN1NCenc)
-    - [References](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdelNUN0pLNk9tUWM)
+  - Course [course](https://drive.google.com/file/d/0BxM540VPs0PdZkxvYWxRNC1rWjQ/view)
+  - Codes [codes](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdS2F1NTVRN1NCenc)
+  - References [References](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdelNUN0pLNk9tUWM)
+
 
 ##### Guide & Inspiration
   - Gian MHRD course in JU, Kolkata [cert](https://drive.google.com/drive/folders/0BxM540VPs0PdR3RQb0ZXTWpRYUk)
