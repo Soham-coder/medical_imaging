@@ -17,12 +17,12 @@ Task was to learn several aspects or techniques of medical imaging like Fourier 
 
 
 ###### References & Useful links
-  - Course [course](https://drive.google.com/file/d/0BxM540VPs0PdZkxvYWxRNC1rWjQ/view)
-  - Codes [codes](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdS2F1NTVRN1NCenc)
-  - References [References](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdelNUN0pLNk9tUWM)
+  - Course- [course](https://drive.google.com/file/d/0BxM540VPs0PdZkxvYWxRNC1rWjQ/view)
+  - Codes- [codes](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdS2F1NTVRN1NCenc)
+  - References- [References](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdelNUN0pLNk9tUWM)
 
 
-##### Guide & Inspiration
-  - Gian MHRD course in JU, Kolkata [cert](https://drive.google.com/drive/folders/0BxM540VPs0PdR3RQb0ZXTWpRYUk)
+###### Guide & Inspiration
+  - Gian MHRD course in JU, Kolkata [Cert](https://drive.google.com/drive/folders/0BxM540VPs0PdR3RQb0ZXTWpRYUk)
   - Under Guidance of Professor [Dr. Subhadip Basu](http://www.jaduniv.edu.in/profile.php?uid=683) 
   - PhD research scholar [Shri Nirmal Das](mailto:das.nirmaljis@gmail.com)
