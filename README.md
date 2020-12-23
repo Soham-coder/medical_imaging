@@ -17,8 +17,8 @@ Task was to learn several aspects or techniques of medical imaging like Fourier 
 
 
 ###### References & Useful links
-  - Course- [course](https://drive.google.com/file/d/0BxM540VPs0PdZkxvYWxRNC1rWjQ/view)
-  - Codes- [codes](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdS2F1NTVRN1NCenc)
+  - Course- [Course](https://drive.google.com/file/d/0BxM540VPs0PdZkxvYWxRNC1rWjQ/view)
+  - Codes- [Codes](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdS2F1NTVRN1NCenc)
   - References- [References](https://drive.google.com/drive/u/0/folders/0BxM540VPs0PdelNUN0pLNk9tUWM)
 
 
