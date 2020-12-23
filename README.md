@@ -8,8 +8,11 @@
 @@ Objective—@@
 
 Task was to learn several aspects or techniques of medical imaging like Fourier Distance Transform, Binarization, Skeletonization, Fuzzy implementation, path concepts, adjacency, wave propagation technique, Image segmentation techniques (mainly Watershed technique) and implementing these techniques using several software tools (mainly Qt)
+**Uses OOP**
 ```
-
+```diff prompt
+**Uses OOP**
+```
 ###### Future Possible Goals
     
   - To understand the different digital geometries and medical imaging techniques.
